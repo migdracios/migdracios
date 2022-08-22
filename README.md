@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 안녕하세요 ^~^ 황영상입니다.
+
+
+
+### 저는 아래와 같은 스택으로 코딩해요

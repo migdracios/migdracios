@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 안녕하세요 ^~^ 황영상입니다.
+# 안녕하세요 황영상입니다.
 
 
 

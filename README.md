@@ -16,15 +16,4 @@ Here are some ideas to get you started:
 -->
 
 # 안녕하세요 황영상입니다.
-
-
-
-### 저는 아래와 같은 스택으로 코딩해요
-<div style="display:flex">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">    
-<div>
+- 모든 이가 아주 쉽게 메이커가 되는 날을 고대하며 공부합니다

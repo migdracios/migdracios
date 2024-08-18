@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm MIG
 
 <!--
 **migdracios/migdracios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 안녕하세요 황영상입니다.
-- 모든 이가 아주 쉽게 메이커가 되는 날을 고대하며 공부합니다
+- 소프트웨어 개발자, 아이디어 메이커.
+- 생각하고, 만듭니다. 만들다가, 생각합니다.
+- 그러다가 무릎이 탁 쳐지며, 기쁨이 솟아날 때를 기다립니다.
